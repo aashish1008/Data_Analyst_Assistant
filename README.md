@@ -12,7 +12,7 @@ The **Gemini Data Analyst Assistant** is a Streamlit-based tool designed to stre
 ## Installation and Setup
 1. Clone the repository on your device:
    ``` bash
-   git clone https://github.com/your-username/csv-analysis-assistant.git
+   git clone https://github.com/aashish1008/Data_Analyst_Assistant.git
 2. Install dependinces:
    ``` bash
    pip install -r requirements.txt
