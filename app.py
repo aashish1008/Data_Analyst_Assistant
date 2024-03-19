@@ -67,7 +67,7 @@ def main():
 
     col1, col2 = st.columns([1, 7])
 
-    col1.image("Image_path_assistant.svg", width=70)
+    col1.image("/images/assistant.svg", width=70)
 
     col2.header("Data Analyst Assistant")
 
